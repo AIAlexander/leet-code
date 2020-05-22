@@ -2,85 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="423222df-a13a-466f-94dc-a9fd7de19241" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/AddTwoNumbersSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/LongestSubstringSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ReverseIntgerSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/TwoSumSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/ZigZagConversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/bisectionMethod/FindSmallestLetterGreaterThanTargetNo744.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/bisectionMethod/SimpleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/bisectionMethod/SingleElementInASortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/bisectionMethod/SqrtXNo69.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/LinkedListCycleNo141.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/LongestWordInDictionaryNo524.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/MergeSortedArrayNo88.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/ReverseVowelsOfAStringNo345.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/SumOfSquareNumberNo633.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/TwoSum2No167.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/ValidPalindromeNo680.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/doublePointer/entity/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/AssignCookiesNo455.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/BestTimeToBuyAndSellStock122.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/BestTimeToBuyAndSellStockNo121.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/CanPlaceFlowersNo605.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/IsSubsequenceNo392.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/MaximumSubarrayNo53.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/MinimumNumbersOfArrowsToBrustBallons$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/MinimumNumbersOfArrowsToBrustBallons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/NonDecreasingArrayNo665.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/NonOverlappingIntervalsNo435$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/NonOverlappingIntervalsNo435.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/PartitionLabelsNo763.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/QueueReconstructionByHeightNo406$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/greedy/QueueReconstructionByHeightNo406.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/offer/RepeatNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/KthElementNo215.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/test/TestPlugin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbersSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestSubstringSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseIntgerSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSumSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZigZagConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bisectionMethod/FindSmallestLetterGreaterThanTargetNo744.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bisectionMethod/SimpleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bisectionMethod/SingleElementInASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bisectionMethod/SqrtXNo69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/LinkedListCycleNo141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/LongestWordInDictionaryNo524.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/MergeSortedArrayNo88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/ReverseVowelsOfAStringNo345.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/SumOfSquareNumberNo633.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/TwoSum2No167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/ValidPalindromeNo680.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doublePointer/entity/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/AssignCookiesNo455.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/BestTimeToBuyAndSellStock122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/BestTimeToBuyAndSellStockNo121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/CanPlaceFlowersNo605.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/IsSubsequenceNo392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/MaximumSubarrayNo53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/MinimumNumbersOfArrowsToBrustBallons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/NonDecreasingArrayNo665.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/NonOverlappingIntervalsNo435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/PartitionLabelsNo763.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/QueueReconstructionByHeightNo406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/RepeatNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/KthElementNo215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,6 +24,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -325,17 +253,25 @@
       <workItem from="1589504829883" duration="122000" />
       <workItem from="1589505045754" duration="3000" />
       <workItem from="1590040859684" duration="341000" />
-      <workItem from="1590133132800" duration="346000" />
+      <workItem from="1590133132800" duration="956000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode项目初始化">
+      <created>1590133947025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590133947025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62541000" />
+    <option name="totallyTimeSpent" value="63151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2979243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2979243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -349,9 +285,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15714286" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.37040818" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" visible="true" weight="0.37040818" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -377,6 +313,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode项目初始化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
