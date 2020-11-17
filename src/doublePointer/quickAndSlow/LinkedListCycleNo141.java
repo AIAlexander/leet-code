@@ -1,4 +1,4 @@
-package doublePointer;
+package doublePointer.quickAndSlow;
 
 import doublePointer.entity.ListNode;
 

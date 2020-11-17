@@ -1,4 +1,4 @@
-package doublePointer;
+package doublePointer.leftAndRight;
 
 /**
  * @author wsh
