@@ -1,4 +1,4 @@
-package doublePointer.entity;
+package entity;
 
 /**
  * @author wsh

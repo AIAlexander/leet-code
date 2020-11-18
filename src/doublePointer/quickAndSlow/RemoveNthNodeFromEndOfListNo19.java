@@ -1,6 +1,6 @@
 package doublePointer.quickAndSlow;
 
-import doublePointer.entity.ListNode;
+import entity.ListNode;
 
 /**
  * @author wsh
