@@ -46,6 +46,9 @@ public class PreorderTraversal {
         result.forEach(r -> {
             System.out.print(r.val);
         });
+
+        System.out.println("================");
+        preOrder(t1);
     }
 
     public static List<TreeNode> preOrderTraversal(TreeNode root) {
@@ -64,6 +67,16 @@ public class PreorderTraversal {
         }
 
         return result;
+    }
+
+
+    public static void preOrder(TreeNode root) {
+        if(root == null) {
+            return;
+        }
+        System.out.print(root.val);
+        preOrder(root.left);
+        preOrder(root.right);
     }
 
 

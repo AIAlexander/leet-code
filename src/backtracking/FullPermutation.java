@@ -1,6 +1,7 @@
 package backtracking;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -44,8 +45,9 @@ public class FullPermutation {
 
 
     public static void main(String[] args) {
-        int[] nums = new int[]{1, 2, 5, 8};
+        int[] nums = new int[]{1, 2, 5, 8, 9};
         List<List<Integer>> result = permute(nums);
+        System.out.println(result.size());
         result.forEach(u -> System.out.println(u));
     }
 }

@@ -47,6 +47,9 @@ public class InorderTraversal {
         result.forEach(r -> {
             System.out.print(r.val);
         });
+
+        System.out.println("------------------------");
+        postOrder(t1);
     }
 
     public static List<TreeNode> postOrderTraversal(TreeNode root) {
@@ -65,5 +68,14 @@ public class InorderTraversal {
         }
 
         return result;
+    }
+
+    public static void postOrder(TreeNode root) {
+        if(root == null) {
+            return;
+        }
+        postOrder(root.left);
+        System.out.print(root.val);
+        postOrder(root.right);
     }
 }
